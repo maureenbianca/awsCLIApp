@@ -4,6 +4,13 @@
 This App is a command line interface (CLI) application that would allow users to easily take inventory of all the resources that are currently provisioned in AWS environment. This guide walks you through installing and configuring the tool. After that, you can begin making calls to your AWS services from the command line.
 
 ##### Tested and deployed on Ubuntu OS
+### Resources
+          - IAM
+          - EC2
+          - RDS
+          - S3
+          - ECS
+          - ECR
 
 ### Prerequisites
 
