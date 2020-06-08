@@ -5,12 +5,13 @@ This App is a command line interface (CLI) application that would allow users to
 
 ##### Tested and deployed on Ubuntu OS
 ### Resources
-          - IAM
-          - EC2
-          - RDS
-          - S3
-          - ECS
-          - ECR
+
+- IAM
+- EC2
+- RDS
+- S3
+- ECS
+- ECR
 
 ### Prerequisites
 
